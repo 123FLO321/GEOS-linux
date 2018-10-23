@@ -1,5 +1,5 @@
 module geos {
-    header "/usr/local/include/geos_c.h"
+    header "/usr/include/geos_c.h"
     link "geos"
     export *
 }
